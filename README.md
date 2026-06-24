@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Wagner</h1>
-<h3 align="center">Mechanical Engineer | Electrical Engineer | Clinical Engineer & IoT Developer</h3>
+<h3 align="center">Mechanical Engineer | Electrical Engineer | Clinical Engineer & IoT Developer </h3>
 
 ---
 
