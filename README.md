@@ -1,7 +1,7 @@
 
 
 <div align="center">
-
+ 
 <h1>Hi, I'm Daniel Wagner 👋</h1>
 
 <h3>Mechanical & Electrical Engineer · Clinical Engineering Specialist</h3>
