@@ -5,7 +5,6 @@
 <h3>Mechanical & Electrical Engineer · Clinical Engineering Specialist</h3>
 
 <p><strong>Embedded systems. Connected products. Engineering from hardware to software.</strong></p>
-
 <p>
   <img src="https://img.shields.io/badge/Hardware_Design-0F172A?style=for-the-badge" alt="Hardware Design" />
   <img src="https://img.shields.io/badge/Embedded_Firmware-0369A1?style=for-the-badge" alt="Embedded Firmware" />
